@@ -1,3 +1,5 @@
+This is using a slugbase template! 
+
 Use this template on GitHub or [download the code](https://github.com/SlimeCubed/ExampleSlugBaseMod/archive/refs/heads/master.zip), whichever is easiest.
 
 Links:
