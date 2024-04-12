@@ -1,0 +1,14 @@
+{
+	"id": "Sludgethrower",
+	"name": "The Sludgethrower",
+	"description": "Currently a test",
+	"features": {
+		"color": "4c5742",
+		"sludgethrower/super_jump": 0.5,
+		"sludgethrower/explode_on_death": false,
+
+		"select_menu_scene": "Slugcat_Sludgethrower",
+		"select_menu_scene_ascended": "Ghost_Sludgethrower",
+		"sludgethrower/mean_lizards": 0.8
+	}
+}

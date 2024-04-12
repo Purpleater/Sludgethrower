@@ -1,0 +1,10 @@
+﻿{
+	"id": "Sludgethrower",
+	"name": "The Sludgethrower",
+	"version": "0.1.0",
+	"authors": "FrozenEmu",
+	"description": "A mod that adds a new slugcat that can spew acid",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ],
+	"tags": [ "Custom Slugcat" ]
+}
